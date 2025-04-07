@@ -366,7 +366,6 @@ PRODUCT_PACKAGES += \
     libvidhance_zoom_stabilization \
     sensors.moto \
     sensors.ssc \
-    vendor.egistec.hardware.fingerprint@4.0 \
     vendor.qti.hardware.camera.postproc@1.0-service-impl \
     vendor.qti.hardware.fingerprint@1.0 \
     HotwordEnrollmentOKGoogleHEXAGON_WIDEBAND \
